@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T10:13:54.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0" etag="aw8kKArRn8FTMwS_Y553" version="21.3.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-25T14:04:51.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0" etag="LK6tYvFjDvsLQrhYoWyg" version="21.3.3" type="github" pages="2">
   <diagram id="9msS7Pfk1lTqt8xurtIk" name="Probability Distributions">
-    <mxGraphModel dx="2087" dy="1287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,162 +363,173 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1OCH_DQQk32lbGW80OBP" name="Anomaly Detection">
-    <mxGraphModel dx="2234" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3990" dy="1610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-1" target="_5P8dBxt5rpyNxAOchYb-2">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-1" target="_5P8dBxt5rpyNxAOchYb-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-1" target="_5P8dBxt5rpyNxAOchYb-12">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-1" target="_5P8dBxt5rpyNxAOchYb-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-1" value="Outlier Identification" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-1" value="Outlier Identification" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="597" y="-15.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-2" target="_5P8dBxt5rpyNxAOchYb-4">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-2" target="_5P8dBxt5rpyNxAOchYb-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-2" value="Outlier Labeling" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-2" value="Outlier Labeling" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-33" y="84" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-4" value="Outlier Accomodation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-4" value="Outlier Accomodation" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-33" y="224" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-6" target="_5P8dBxt5rpyNxAOchYb-2">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_5P8dBxt5rpyNxAOchYb-6" target="_5P8dBxt5rpyNxAOchYb-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-6" value="flag potential outliers for further&lt;br&gt;             investigation (i.e., are the potential outliers erroneous&lt;br&gt;             data, indicative of an inappropriate distributional&lt;br&gt;             model, and so on)." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-6" value="flag potential outliers for further&lt;br&gt;             investigation (i.e., are the potential outliers erroneous&lt;br&gt;             data, indicative of an inappropriate distributional&lt;br&gt;             model, and so on)." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-446" y="79" width="308" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-8" target="_5P8dBxt5rpyNxAOchYb-4">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-8" target="_5P8dBxt5rpyNxAOchYb-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-8" value="use stat techniques&lt;br&gt;             that will not be unduly affected by outliers.  That is, if&lt;br&gt;             we cannot determine that potential outliers are erroneous&lt;br&gt;             observations, do we need modify our statistical analysis&lt;br&gt;             to more appropriately account for these observations?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-8" value="use stat techniques&lt;br&gt;             that will not be unduly affected by outliers.  That is, if&lt;br&gt;             we cannot determine that potential outliers are erroneous&lt;br&gt;             observations, do we need modify our statistical analysis&lt;br&gt;             to more appropriately account for these observations?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-451" y="212" width="331" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-10" target="_5P8dBxt5rpyNxAOchYb-1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-10" target="_5P8dBxt5rpyNxAOchYb-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-10" value="&lt;b&gt;binary output&lt;/b&gt;: &lt;br&gt;&lt;div&gt;a data point in a time series is &lt;br&gt;&lt;/div&gt;&lt;div&gt;either anomalous or it isn’t&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-10" value="&lt;b&gt;binary output&lt;/b&gt;: &lt;br&gt;&lt;div&gt;a data point in a time series is &lt;br&gt;&lt;/div&gt;&lt;div&gt;either anomalous or it isn’t&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="912" y="-8" width="183" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-15" value="&lt;div&gt;choice&lt;/div&gt;&lt;div&gt;depends on&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-12" target="_5P8dBxt5rpyNxAOchYb-14">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-15" value="&lt;div&gt;choice&lt;/div&gt;&lt;div&gt;depends on&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-12" target="_5P8dBxt5rpyNxAOchYb-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-12" target="_5P8dBxt5rpyNxAOchYb-57">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-12" target="_5P8dBxt5rpyNxAOchYb-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-12" target="_5P8dBxt5rpyNxAOchYb-59">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-12" target="_5P8dBxt5rpyNxAOchYb-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-12" value="Technics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-12" value="Technics" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="222" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-14" target="_5P8dBxt5rpyNxAOchYb-18">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-14" target="_5P8dBxt5rpyNxAOchYb-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-14" target="_5P8dBxt5rpyNxAOchYb-28">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-14" target="_5P8dBxt5rpyNxAOchYb-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-14" value="&lt;i&gt;What is the &lt;b&gt;distributional &lt;/b&gt;model for the data?&lt;/i&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-14" value="&lt;i&gt;What is the &lt;b&gt;distributional &lt;/b&gt;model for the data?&lt;/i&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1592" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-18" target="_5P8dBxt5rpyNxAOchYb-21">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-18" target="_5P8dBxt5rpyNxAOchYb-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-18" value="it is recommended that you generate a&lt;br/&gt;      &lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/normprpl.htm&quot;&gt;normal probability plot&lt;/a&gt; of the data before&lt;br/&gt;      applying an outlier test. " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-18" value="it is recommended that you generate a&lt;br/&gt;      &lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/normprpl.htm&quot;&gt;normal probability plot&lt;/a&gt; of the data before&lt;br/&gt;      applying an outlier test. " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2027.5" y="215.5" width="240" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-2.amazonaws.com/bubblus/4774784/10231234/9b52854f0bbd64f4c262eae58484e891/inline.png;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-2.amazonaws.com/bubblus/4774784/10231234/9b52854f0bbd64f4c262eae58484e891/inline.png;" parent="1" vertex="1">
           <mxGeometry x="1979" y="-128" width="337" height="295" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-24" target="_5P8dBxt5rpyNxAOchYb-18">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-24" target="_5P8dBxt5rpyNxAOchYb-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-24" value="&lt;div&gt;Although you can also perform &lt;br&gt;&lt;/div&gt;&lt;div&gt;formal tests for normality, &lt;br&gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;&lt;div&gt;the prescence of one or more outliers may cause the tests to reject normality when it is in fact a reasonable assumption for applying the outlier test.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-24" value="&lt;div&gt;Although you can also perform &lt;br&gt;&lt;/div&gt;&lt;div&gt;formal tests for normality, &lt;br&gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;&lt;div&gt;the prescence of one or more outliers may cause the tests to reject normality when it is in fact a reasonable assumption for applying the outlier test.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2419.5" y="183" width="266" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-26" target="_5P8dBxt5rpyNxAOchYb-21">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-26" target="_5P8dBxt5rpyNxAOchYb-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-26" value="The data are plotted against a theoretical normal&lt;br&gt;         distribution in such a way that the points should form&lt;br&gt;         an approximate straight line.  Departures from this straight&lt;br&gt;         line indicate departures from normality." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-26" value="The data are plotted against a theoretical normal&lt;br&gt;         distribution in such a way that the points should form&lt;br&gt;         an approximate straight line.  Departures from this straight&lt;br&gt;         line indicate departures from normality." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2419.5" y="-15.5" width="333" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-28" target="_5P8dBxt5rpyNxAOchYb-30">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-28" target="_5P8dBxt5rpyNxAOchYb-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-28" value="Normal?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-28" value="Normal?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1592" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-30" target="_5P8dBxt5rpyNxAOchYb-32">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-30" target="_5P8dBxt5rpyNxAOchYb-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-30" value="Tests based on &lt;br&gt;criterion of &quot;distance from the mean&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-30" value="Tests based on &lt;br&gt;criterion of &quot;distance from the mean&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1592" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-32" target="_5P8dBxt5rpyNxAOchYb-34">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-32" target="_5P8dBxt5rpyNxAOchYb-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-32" target="_5P8dBxt5rpyNxAOchYb-34">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-32" target="_5P8dBxt5rpyNxAOchYb-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-39" value="multiple" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_5P8dBxt5rpyNxAOchYb-36">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-39" value="multiple" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_5P8dBxt5rpyNxAOchYb-36" vertex="1" connectable="0">
           <mxGeometry x="0.3421" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-32" target="_5P8dBxt5rpyNxAOchYb-37">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-32" target="_5P8dBxt5rpyNxAOchYb-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-40" value="single" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_5P8dBxt5rpyNxAOchYb-38">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-40" value="single" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_5P8dBxt5rpyNxAOchYb-38" vertex="1" connectable="0">
           <mxGeometry x="0.2296" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-32" value="Single outlier method or multiple outliers?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-32" value="Single outlier method or multiple outliers?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1592" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-42" value="exactly" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-34" target="_5P8dBxt5rpyNxAOchYb-41">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-42" value="exactly" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-34" target="_5P8dBxt5rpyNxAOchYb-41" edge="1">
           <mxGeometry x="0.4679" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-34" target="_5P8dBxt5rpyNxAOchYb-43">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-34" target="_5P8dBxt5rpyNxAOchYb-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-47" value="only upper bound" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_5P8dBxt5rpyNxAOchYb-44">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-47" value="only upper bound" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_5P8dBxt5rpyNxAOchYb-44" vertex="1" connectable="0">
           <mxGeometry x="0.2195" y="2" relative="1" as="geometry">
             <mxPoint x="24" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-34" value="Does the number of outliers need to be specified exactly or can we specify an upper bound for the number of outliers?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-34" value="Does the number of outliers need to be specified exactly or can we specify an upper bound for the number of outliers?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1707" y="773" width="198" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-37" value="&lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h1.htm&quot;&gt;Grubbs&#39; Test&lt;/a&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-37" value="&lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h1.htm&quot;&gt;Grubbs&#39; Test&lt;/a&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1485" y="773" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-41" target="_5P8dBxt5rpyNxAOchYb-37">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-41" target="_5P8dBxt5rpyNxAOchYb-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-46" value="generalization of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_5P8dBxt5rpyNxAOchYb-45">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-46" value="generalization of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_5P8dBxt5rpyNxAOchYb-45" vertex="1" connectable="0">
           <mxGeometry x="0.1371" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-41" value="&lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h2.htm&quot;&gt;Tietjen-Moore Test&lt;/a&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-41" value="&lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h2.htm&quot;&gt;Tietjen-Moore Test&lt;/a&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1636" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-43" value="&lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm&quot;&gt;Generalized Extreme Studentized Deviate&lt;br&gt;             (ESD) Test&lt;/a&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-43" target="OfHwXfPNJ7rAisYePNvP-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1944" y="1218" />
+              <mxPoint x="1458" y="1218" />
+              <mxPoint x="1458" y="923" />
+              <mxPoint x="1157" y="923" />
+              <mxPoint x="1157" y="884" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-43" value="&lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm&quot;&gt;Generalized Extreme Studentized Deviate&lt;br&gt;             (ESD) Test&lt;/a&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1884" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-48" target="_5P8dBxt5rpyNxAOchYb-32">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-48" target="_5P8dBxt5rpyNxAOchYb-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-48" value="It is not appropriate to apply&lt;br&gt;&lt;div&gt;      a test for a single outlier sequentially &lt;br&gt;&lt;/div&gt;&lt;div&gt;in order to detect multiple outliers&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-48" value="It is not appropriate to apply&lt;br&gt;&lt;div&gt;      a test for a single outlier sequentially &lt;br&gt;&lt;/div&gt;&lt;div&gt;in order to detect multiple outliers&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1970" y="642.5" width="218" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.008;exitY=0.67;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-50" target="_5P8dBxt5rpyNxAOchYb-48">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.008;exitY=0.67;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_5P8dBxt5rpyNxAOchYb-50" target="_5P8dBxt5rpyNxAOchYb-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2275" y="737" />
@@ -527,83 +538,165 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-50" value="&lt;div&gt;Masking: &lt;br&gt;if we are testing for a single outlier when there are in&lt;br&gt;      fact two (or more) outliers, these additional outliers &lt;br&gt;&lt;/div&gt;&lt;div&gt;may influencethe value of the test statistic enough so that &lt;br&gt;&lt;/div&gt;&lt;div&gt;no points are declared as outliers.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-50" value="&lt;div&gt;Masking: &lt;br&gt;if we are testing for a single outlier when there are in&lt;br&gt;      fact two (or more) outliers, these additional outliers &lt;br&gt;&lt;/div&gt;&lt;div&gt;may influencethe value of the test statistic enough so that &lt;br&gt;&lt;/div&gt;&lt;div&gt;no points are declared as outliers.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2303" y="680" width="329" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-52" target="_5P8dBxt5rpyNxAOchYb-48">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-52" target="_5P8dBxt5rpyNxAOchYb-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-52" value="&lt;div&gt;Swamping:&lt;br&gt;if we are testing for two or more outliers &lt;br&gt;&lt;/div&gt;&lt;div&gt;when there is in fact only a single outlier, &lt;br&gt;&lt;/div&gt;&lt;div&gt;both points may be declared outliers &lt;br&gt;&lt;/div&gt;&lt;div&gt;(many tests will declare either&lt;br&gt;      all or none of the tested points as outliers).&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-52" value="&lt;div&gt;Swamping:&lt;br&gt;if we are testing for two or more outliers &lt;br&gt;&lt;/div&gt;&lt;div&gt;when there is in fact only a single outlier, &lt;br&gt;&lt;/div&gt;&lt;div&gt;both points may be declared outliers &lt;br&gt;&lt;/div&gt;&lt;div&gt;(many tests will declare either&lt;br&gt;      all or none of the tested points as outliers).&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2331" y="554" width="251" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-54" target="_5P8dBxt5rpyNxAOchYb-28">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-54" target="_5P8dBxt5rpyNxAOchYb-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-54" value="&lt;div&gt;data with &lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda3669.htm&quot;&gt;lognormal distribution&lt;/a&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;can transformed to normality by taking the&lt;/div&gt;      logarithms of the data &lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-54" value="&lt;div&gt;data with &lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda3669.htm&quot;&gt;lognormal distribution&lt;/a&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;can transformed to normality by taking the&lt;/div&gt;      logarithms of the data &lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1846" y="362.5" width="245" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-57" target="_5P8dBxt5rpyNxAOchYb-63">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-57" target="OfHwXfPNJ7rAisYePNvP-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-99.99999999999955" y="593.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-57" target="OfHwXfPNJ7rAisYePNvP-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-57" value="Unsupervised" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-57" target="OfHwXfPNJ7rAisYePNvP-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-57" value="Unsupervised" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="459" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-59" value="Supervised" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-59" value="Supervised" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="362" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-61" target="_5P8dBxt5rpyNxAOchYb-41">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_5P8dBxt5rpyNxAOchYb-61" target="_5P8dBxt5rpyNxAOchYb-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-61" value="The primary limitation of&lt;br&gt;      &lt;div&gt;&lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h1.htm&quot;&gt;Grubbs test&lt;/a&gt; and &lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h2.htm&quot;&gt;Tietjen-Moore test&lt;/a&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;is that the suspected number of outliers, &lt;i style=&quot;&quot;&gt;k&lt;/i&gt;, &lt;br&gt;&lt;/div&gt;&lt;div&gt;must be specified exactly.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-61" value="The primary limitation of&lt;br&gt;      &lt;div&gt;&lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h1.htm&quot;&gt;Grubbs test&lt;/a&gt; and &lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h2.htm&quot;&gt;Tietjen-Moore test&lt;/a&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;is that the suspected number of outliers, &lt;i style=&quot;&quot;&gt;k&lt;/i&gt;, &lt;br&gt;&lt;/div&gt;&lt;div&gt;must be specified exactly.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1521" y="1087" width="251" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-63" target="_5P8dBxt5rpyNxAOchYb-65">
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-18" value="Low-Pass Filter" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1494" y="918" width="932" height="369" as="geometry">
+            <mxRectangle x="-645" y="635" width="123" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-65" value="1. taking the &lt;b&gt;centered&lt;/b&gt; rolling average of a time series, ..." style="whiteSpace=wrap;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" vertex="1">
+          <mxGeometry x="670" y="35" width="180.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-67" value="2. Calculating the individual Z-score of each data point in the time series, compared to the rolling average" style="whiteSpace=wrap;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" vertex="1">
+          <mxGeometry x="670" y="136" width="181" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" source="_5P8dBxt5rpyNxAOchYb-65" target="_5P8dBxt5rpyNxAOchYb-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-63" value="Low-pass filter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-69" value="3. Removing data points that are more than a certain number of standard deviations away from the rolling average" style="whiteSpace=wrap;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" vertex="1">
+          <mxGeometry x="668.5" y="252.5" width="182" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-65" target="_5P8dBxt5rpyNxAOchYb-67">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" source="_5P8dBxt5rpyNxAOchYb-67" target="_5P8dBxt5rpyNxAOchYb-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-65" value="1. taking the &lt;b&gt;centered&lt;/b&gt; rolling average of a time series, ..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="731" width="180.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-67" target="_5P8dBxt5rpyNxAOchYb-69">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" source="_5P8dBxt5rpyNxAOchYb-75" target="_5P8dBxt5rpyNxAOchYb-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-67" value="2. Calculating the individual Z-score of each data point in the time series, compared to the rolling average" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="824" width="181" height="76" as="geometry" />
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-75" value="&lt;div&gt;Centered means: &lt;br&gt;&lt;/div&gt;&lt;div&gt;rolling average with x-length is the mean of &lt;br&gt;&lt;/div&gt;&lt;div&gt;x/2 data points before, and x/2 data pointsafter.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OfHwXfPNJ7rAisYePNvP-18" vertex="1">
+          <mxGeometry x="314" y="68.5" width="270" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-69" value="3. Removing data points that are more than a certain number of standard deviations away from the rolling average" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="934" width="182" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-75" target="_5P8dBxt5rpyNxAOchYb-65">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" source="_5P8dBxt5rpyNxAOchYb-78" target="_5P8dBxt5rpyNxAOchYb-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-75" value="&lt;div&gt;Centered means: &lt;br&gt;&lt;/div&gt;&lt;div&gt;rolling average with x-length is the mean of &lt;br&gt;&lt;/div&gt;&lt;div&gt;x/2 data points before, and x/2 data pointsafter.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="133" y="736" width="270" height="55" as="geometry" />
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-78" value="&lt;div align=&quot;left&quot;&gt;&lt;i&gt;Python: &lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;df[column_name]&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; .&lt;b&gt;rolling&lt;/b&gt;(window=60, center=True)&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; .&lt;b&gt;mean&lt;/b&gt;()&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OfHwXfPNJ7rAisYePNvP-18" vertex="1">
+          <mxGeometry x="55" y="61" width="214" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-78" target="_5P8dBxt5rpyNxAOchYb-75">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" source="_5P8dBxt5rpyNxAOchYb-80" target="_5P8dBxt5rpyNxAOchYb-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-78" value="&lt;div align=&quot;left&quot;&gt;&lt;i&gt;Python: &lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;df[column_name]&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; .&lt;b&gt;rolling&lt;/b&gt;(window=60, center=True)&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; .&lt;b&gt;mean&lt;/b&gt;()&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-192" y="728.5" width="214" height="70" as="geometry" />
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-2.amazonaws.com/bubblus/4774784/10231234/8f47be4e0b23fb077908ee440dbda0b3/inline.png;" parent="OfHwXfPNJ7rAisYePNvP-18" vertex="1">
+          <mxGeometry x="407" y="167.5" width="140" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-80" target="_5P8dBxt5rpyNxAOchYb-67">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="OfHwXfPNJ7rAisYePNvP-18" source="_5P8dBxt5rpyNxAOchYb-82" target="_5P8dBxt5rpyNxAOchYb-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-2.amazonaws.com/bubblus/4774784/10231234/8f47be4e0b23fb077908ee440dbda0b3/inline.png;" vertex="1" parent="1">
-          <mxGeometry x="226" y="835" width="140" height="62" as="geometry" />
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-82" value="&lt;div&gt;&lt;br&gt;for small sample sizes: &lt;br&gt;&lt;/div&gt;&lt;div&gt;modified Z-score using &lt;br&gt;&lt;div&gt;MAD - Median Absolute Deviation,&lt;/div&gt;x~ is median&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OfHwXfPNJ7rAisYePNvP-18" vertex="1">
+          <mxGeometry x="131" y="156.5" width="201" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_5P8dBxt5rpyNxAOchYb-82" target="_5P8dBxt5rpyNxAOchYb-80">
+        <mxCell id="_5P8dBxt5rpyNxAOchYb-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-2.amazonaws.com/bubblus/4774784/10231234/29a7255c5e21dcf903473e36e0d641d9/inline.png;" parent="OfHwXfPNJ7rAisYePNvP-18" vertex="1">
+          <mxGeometry x="121" y="252.5" width="215" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OfHwXfPNJ7rAisYePNvP-18" source="OfHwXfPNJ7rAisYePNvP-16" target="_5P8dBxt5rpyNxAOchYb-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-82" value="&lt;div&gt;&lt;br&gt;for small sample sizes: &lt;br&gt;&lt;/div&gt;&lt;div&gt;modified Z-score using &lt;br&gt;&lt;div&gt;MAD - Median Absolute Deviation,&lt;/div&gt;x~ is median&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="824" width="201" height="84" as="geometry" />
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-16" value="&lt;div&gt;modified Z-scores with an &lt;br&gt;&lt;/div&gt;&lt;div&gt;absolute value of greater than 3.5 &lt;/div&gt;&lt;div&gt;be labeled as potential outliers&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OfHwXfPNJ7rAisYePNvP-18">
+          <mxGeometry x="407" y="282" width="200" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_5P8dBxt5rpyNxAOchYb-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-2.amazonaws.com/bubblus/4774784/10231234/29a7255c5e21dcf903473e36e0d641d9/inline.png;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="920" width="215" height="65" as="geometry" />
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-22" value="Isolation Forest" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-8" y="673" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfHwXfPNJ7rAisYePNvP-24" target="OfHwXfPNJ7rAisYePNvP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-24" value="&lt;br&gt;&lt;div&gt;extension of the &lt;br&gt;&lt;/div&gt;&lt;div&gt;random forest algorithm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-247" y="782" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfHwXfPNJ7rAisYePNvP-26" target="OfHwXfPNJ7rAisYePNvP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfHwXfPNJ7rAisYePNvP-26" target="OfHwXfPNJ7rAisYePNvP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-26" value="&lt;div&gt;splits each individual data point &lt;br&gt;&lt;/div&gt;&lt;div&gt;off from all other data points: &lt;br&gt;&lt;/div&gt;&lt;div&gt;The easier it is to isolate a single point &lt;br&gt;&lt;/div&gt;&lt;div&gt;in spacefrom all other points, &lt;br&gt;&lt;/div&gt;&lt;div&gt;the more likely it is an outlier&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-62.5" y="817" width="229" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfHwXfPNJ7rAisYePNvP-28" target="OfHwXfPNJ7rAisYePNvP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-28" value="&lt;br&gt;&lt;div&gt;from sklearn.ensemble &lt;br&gt;&lt;/div&gt;&lt;div&gt;import IsolationForest&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="775.5" width="146" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3-us-west-2.amazonaws.com/bubblus/4774784/10231234/8871d0c917c31348abae4899aef9ec19/inline.png;" vertex="1" parent="1">
+          <mxGeometry x="-289" y="997" width="717.3" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-35" value="Seasonal-extreme studentized deviate (S-ESD)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="757" width="802" height="337" as="geometry">
+            <mxRectangle x="609" y="670" width="299" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OfHwXfPNJ7rAisYePNvP-35" source="OfHwXfPNJ7rAisYePNvP-36" target="OfHwXfPNJ7rAisYePNvP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OfHwXfPNJ7rAisYePNvP-35" source="OfHwXfPNJ7rAisYePNvP-36" target="OfHwXfPNJ7rAisYePNvP-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-36" value="1. A time series is decomposed using STL (season-trend-loess) decomposition." style="whiteSpace=wrap;html=1;" vertex="1" parent="OfHwXfPNJ7rAisYePNvP-35">
+          <mxGeometry x="31" y="69.5" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-37" value="&lt;div&gt;2. decomposed time series that we really care about is the &lt;em style=&quot;&quot; class=&quot;ms&quot;&gt;Residual Time Series&lt;/em&gt; (or loess time series). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm&quot;&gt;Extreme Studentized Deviate (ESD)&lt;/a&gt;&lt;/div&gt; algorithm is run on the resulting loess time series to detect anomalies&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="OfHwXfPNJ7rAisYePNvP-35">
+          <mxGeometry x="291" y="45" width="220" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-39" value="&lt;div&gt;from statsmodels.tsa.seasonal &lt;br&gt;&lt;/div&gt;&lt;div&gt;import seasonal_decompose&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OfHwXfPNJ7rAisYePNvP-35">
+          <mxGeometry x="9" y="179" width="190" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OfHwXfPNJ7rAisYePNvP-35" source="OfHwXfPNJ7rAisYePNvP-42" target="OfHwXfPNJ7rAisYePNvP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-42" value="&lt;div&gt;The loess TS represents &lt;br&gt;&lt;/div&gt;&lt;div&gt;noise in the system, &lt;br&gt;&lt;/div&gt;&lt;div&gt;after trend and seasonal behavior &lt;br&gt;&lt;/div&gt;&lt;div&gt;have been filtered out.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OfHwXfPNJ7rAisYePNvP-35">
+          <mxGeometry x="288" y="199" width="202" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OfHwXfPNJ7rAisYePNvP-35" source="OfHwXfPNJ7rAisYePNvP-43" target="OfHwXfPNJ7rAisYePNvP-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="488" y="241" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-43" value="ESD is used for &lt;br&gt;univariate data set&lt;br&gt;      that follows an &lt;a target=&quot;_blank&quot; style=&quot;&quot; href=&quot;https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h.htm#Normality&quot;&gt;approximately&lt;br&gt;      normal distribution&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OfHwXfPNJ7rAisYePNvP-35">
+          <mxGeometry x="530" y="206" width="176" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-44" value="only requires that an upper bound &lt;br&gt;&lt;div&gt;for the suspected number of&lt;/div&gt;      outliers be specified" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OfHwXfPNJ7rAisYePNvP-35">
+          <mxGeometry x="568" y="83" width="202" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OfHwXfPNJ7rAisYePNvP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OfHwXfPNJ7rAisYePNvP-35" source="OfHwXfPNJ7rAisYePNvP-44" target="OfHwXfPNJ7rAisYePNvP-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
